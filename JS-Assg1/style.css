@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid black;
+    align-items: center;
+    background-color: rgb(238, 232, 232);
+}
+.container h1{
+    color: brown;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+}
+.container p{
+    font-size: 22px;
+    margin: 10px;
+    padding: 2px;
+}
+
+.container h4{
+    color: blueviolet;
+    text-transform: uppercase;
+    margin: 2px;
+    padding: 2px;
+}
+
+.container table{
+    font-size:20px;
+    text-align: center;
+    margin: 10px;
+    padding: 2px;
+}
+
+.container ul>li{
+    font-size:20px;
+    margin: 10px;
+    padding: 2px;
+}
+.container hr{
+    color: brown;
+    border: 2px solid brown;
+}
